@@ -1,7 +1,7 @@
 require "findDep/version"
 
 module FindDep
-  class getDependencies
-  	
+  class GetDependencies
+
   end
 end
