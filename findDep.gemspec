@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "this gem helps you to find your missing dependencies and install them for you"
   spec.description   = "just awesome"
-  spec.homepage      = "am to poor to handle a site "
+  spec.homepage      = "https://github.com/modyz/testGem "
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
