@@ -11,6 +11,7 @@ require "findDep"
 # Pry.start
 
 puts ARGV
+pust FindDep::GetDependencies.say_hi
 
 require "irb"
 IRB.start(__FILE__)

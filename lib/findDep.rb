@@ -2,7 +2,7 @@ require "findDep/version"
 
 module FindDep
   class GetDependencies
-  	def say_hi
+  	def self.say_hi
   		puts "hi"
   	end
   end
