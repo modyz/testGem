@@ -10,7 +10,7 @@ require "findDep"
 # require "pry"
 # Pry.start
 
-puts ARGV[0]
+puts ARGV
 
 require "irb"
 IRB.start(__FILE__)
