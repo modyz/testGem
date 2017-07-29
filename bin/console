@@ -9,9 +9,7 @@ require "findDep"
 # (If you use this, don't forget to add pry to your Gemfile!)
 # require "pry"
 # Pry.start
-
-puts ARGV
-pust FindDep::GetDependencies.say_hi
-
 require "irb"
 IRB.start(__FILE__)
+
+
